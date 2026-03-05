@@ -4,6 +4,7 @@
 import pandas as pd 
 
 
+
 data = {
     'nom': ['Alice', 'Bob', 'Charlie', 'Diana'],
     'age': [25, 30, 35, 28],
